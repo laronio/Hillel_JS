@@ -1,0 +1,21 @@
+Илларион@DESKTOP-DUURLB2 MINGW64 /d/learn.js.layout/HW15_Git (HW15_Git)
+$ git reflog
+6ad0591 (HEAD -> HW15_Git, develop, HW15_Git_2, HW15_Git_1) HEAD@{0}: merge develop: Fast-forward
+00a775f HEAD@{1}: checkout: moving from HW15_Git_2 to HW15_Git
+6ad0591 (HEAD -> HW15_Git, develop, HW15_Git_2, HW15_Git_1) HEAD@{2}: checkout: moving from HW15_Git_1 to HW15_Git_2
+6ad0591 (HEAD -> HW15_Git, develop, HW15_Git_2, HW15_Git_1) HEAD@{3}: merge develop: Fast-forward
+edeaa58 HEAD@{4}: checkout: moving from develop to HW15_Git_1
+6ad0591 (HEAD -> HW15_Git, develop, HW15_Git_2, HW15_Git_1) HEAD@{5}: merge HW15_Git_2: Fast-forward
+edeaa58 HEAD@{6}: merge HW15_Git_1: Fast-forward
+1760755 HEAD@{7}: checkout: moving from HW15_Git_2 to develop
+6ad0591 (HEAD -> HW15_Git, develop, HW15_Git_2, HW15_Git_1) HEAD@{8}: commit: second change html
+61400cd HEAD@{9}: commit: add css
+edeaa58 HEAD@{10}: checkout: moving from HW15_Git_1 to HW15_Git_2
+edeaa58 HEAD@{11}: commit: html change
+5438dd8 HEAD@{12}: commit: add img and js
+1760755 HEAD@{13}: checkout: moving from develop to HW15_Git_1
+1760755 HEAD@{14}: commit: commit html file
+00a775f HEAD@{15}: checkout: moving from develop to develop
+00a775f HEAD@{16}: checkout: moving from develop to develop
+00a775f HEAD@{17}: checkout: moving from develop to develop
+:
